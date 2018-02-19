@@ -8,7 +8,7 @@ This is based off [Seti Monokai](https://github.com/smukkekim/vscode-setimonokai
 
 Install by pressing `Ctrl` + `P` then typing/pasting:
 
-`ext install monokai-crete`
+`ext install Cretezy.monokai-crete`
 
 To activate, reload then `Ctrl` + `Shift` + `P` and type `Color Theme`, then select Monokai Crete.
 
