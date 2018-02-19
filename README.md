@@ -14,8 +14,8 @@ To activate, reload then `Ctrl` + `Shift` + `P` and type `Color Theme`, then sel
 
 ## Preview
 
-![Code](preview/code.png)
+![Code](https://raw.githubusercontent.com/Cretezy/Monokai/master/preview/code.png)
 
-![Markdown](preview/markdown.png)
+![Markdown](https://raw.githubusercontent.com/Cretezy/Monokai/master/preview/markdown.png)
 
-![JSON](preview/json.png)
+![JSON](https://raw.githubusercontent.com/Cretezy/Monokai/master/preview/json.png)
