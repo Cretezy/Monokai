@@ -323,8 +323,7 @@
     },
     {
       "name": "[VSCODE-CUSTOM] Markdown Punctuation Definition String",
-      "scope":
-        "punctuation.definition.string.begin.markdown,punctuation.definition.string.end.markdown,punctuation.definition.metadata.markdown",
+      "scope": "punctuation.definition.string.begin.markdown,punctuation.definition.string.end.markdown,punctuation.definition.metadata.markdown",
       "settings": {
         "foreground": "#AAB1C0"
       }
@@ -338,16 +337,14 @@
     },
     {
       "name": "[VSCODE-CUSTOM] Markdown Underline Link/Image",
-      "scope":
-        "markup.underline.link.markdown,markup.underline.link.image.markdown",
+      "scope": "markup.underline.link.markdown,markup.underline.link.image.markdown",
       "settings": {
         "foreground": "#D55FDE"
       }
     },
     {
       "name": "[VSCODE-CUSTOM] Markdown Link Title/Description",
-      "scope":
-        "string.other.link.title.markdown,string.other.link.description.markdown",
+      "scope": "string.other.link.title.markdown,string.other.link.description.markdown",
       "settings": {
         "foreground": "#52ADF2"
       }
@@ -364,6 +361,19 @@
       "scope": "markup.bold.markdown",
       "settings": {
         "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "meta.template.expression",
+      "scope": "meta.template.expression",
+      "settings": {
+        "foreground": "#d7d7d7"
+      }
+    },
+    {
+      "scope": "punctuation.definition.template-expression.begin, punctuation.definition.template-expression.end",
+      "settings": {
+        "foreground": "#DA70D6"
       }
     }
   ]
